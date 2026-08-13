@@ -1,0 +1,24 @@
+# Environment
+.env
+.venv/
+
+# Data (downloaded/generated, not tracked)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.npy
+*.partial.json
+
+# macOS
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
